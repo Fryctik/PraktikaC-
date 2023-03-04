@@ -1,0 +1,8 @@
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\bin\Debug\2.3.1.exe.config
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\bin\Debug\2.3.1.exe
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\bin\Debug\2.3.1.pdb
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\obj\Debug\2.3.1.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\obj\Debug\2.3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\obj\Debug\2.3.1.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\obj\Debug\2.3.1.exe
+C:\Users\Maksim\source\repos\2.3.1\2.3.1\obj\Debug\2.3.1.pdb
